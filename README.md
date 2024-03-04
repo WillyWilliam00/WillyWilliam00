@@ -1,5 +1,5 @@
 
-<img width=1000 src="/william.png"> 
+
 <h2>👨‍💻 Chi sono 👨‍💻</h2> 
 
 [![GitHub William](https://img.shields.io/github/followers/WillyWilliam00?label=follow&style=social)](https://github.com/WillyWilliam00) [![Linkedin: William](https://img.shields.io/badge/-WilliamCosta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-costa-developer/)](https://www.linkedin.com/in/william-costa-developer/) [![EPICODE Talent](https://img.shields.io/badge/-EPICODE%20Talent-800080?style=flat&logoColor=white&color=800080)](https://talent.epicode.com/talent/752a3474-ddad-4f65-b2e8-8929aa86a35d)
