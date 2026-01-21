@@ -50,6 +50,7 @@ Attualmente, cerco un ruolo che mi offra la possibilità di mettermi in gioco e 
 <p><i>
 Di seguito alcuni dei miei progetti preferiti a cui ho lavorato e a cui sto lavorando</i> 🚀🚀</p>
 <ul>
+  <li><a href="https://github.com/WillyWilliam00/sentinella_camino"><p >🔥 Sentinella Camino</p></a> </li>
   <li><a href="https://github.com/WillyWilliam00/my-shelter-app"><p >⛰️🏠 MyShelter</p></a> </li>
   <li><a href="https://github.com/WillyWilliam00/project-m5-d7"><p >📚📚 EpicBooks</p></a></li>
   <li><a href="https://github.com/WillyWilliam00/ProjectM4D7-D8"><p >🛒🛍️ MarketPlace</p></a></li>
