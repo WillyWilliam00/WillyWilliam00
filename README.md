@@ -13,14 +13,16 @@ https://williamcosta.dev/
 
  
 
-Cos'è la <strong>programmazione</strong> per me?
-Un modo <i>creativo</i> per risolvere problemi, sempre in modo differente.<br>
-Mi chiamo <strong>William</strong>, ho 25 anni e mi sono <i>diplomato</i> in Chimica e Biotecnologie Ambientali.<br>
-Nella mia carriera professionale ho avuto la fortuna di poter esplorare diverse realtà lavorative...E sai che cosa ho capito?<br> 
-E' sempre stata una la strada che volevo intraprendere: 
-<strong>La programmazione</strong>.<br>
-Ho così concluso positivamente il <i>corso avanzato</i> da Full Stack Developer con i ragazzi di <strong>Epicode</strong>, diventando sviluppatore <strong>Full Stack</strong> e confermando ciò che ho sempre saputo: <i>il codice è la mia strada</i>.<br>
-Attualmente, cerco un ruolo che mi offra la possibilità di mettermi in gioco e di crescere, applicando e ampliando le mie competenze nella programmazione.
+Come Full Stack Developer, sviluppo architetture web complete
+integrando interfacce reattive in React e Next.js o Vite con uno styling
+avanzato basato su Tailwind CSS e shadcn/UI. Gestisco lo stato e il datafetching tramite TanStack Query e Zustand , garantendo flussi dati fluidi
+verso backend robusti in Node.js (Express) o Python (Flask). La mia
+competenza copre database relazionali come PostgreSQL, e MySQL
+utilizzando Drizzle ORM per garantire type-safety; oltre a soluzioni NoSQL
+come MongoDB. Coordino l'intero ciclo di vita del software curando la
+validazione con Zod e l'affidabilità tramite unit test, di integrazione ed endto-end. Il mio approccio unisce l'autonomia tecnica alla capacità di
+collaborare in team.
+
  
 
  
