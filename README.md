@@ -25,30 +25,7 @@ collaborare in team.
  
 
  
-<h2>Le Mie Skills 🚀</h2>
-<p><i>FRONTEND</i> 💻</p>
-<div>
-<img src="/javascript-js.svg"width=40>
-<img src="/file-type-css.svg"width=40>
-<img src="/html5.svg" width=40>
-<img src="/bootstrap.svg"width=40>
-<img src="/react.svg"width=40>
-<img src="/free-sass-226054.webp"width=40>
-</div>
-<p><i>BACKEND</i> 💻</p>
-<div>
-<img src="/885px-Node.js_logo.svg.png"width=70>
-<img src="/express.svg" width=40>
-<img src="/mongodb.svg" width=50>
-</div>
-<p><i>TOOLS</i> ⚙️</p>
-<div>
-<img src="/git.svg" width=50>
-<img src="/github.svg"width=50>
-<img src="/vsc.svg" width=40>
-<img src="/postman.svg"width=50>
-<img src="/cloud.png" width=40>
-</div>
+
 <h2>I Miei Progetti Preferiti 🩷</h2>
 <p><i>
 Di seguito alcuni dei miei progetti preferiti a cui ho lavorato e a cui sto lavorando</i> 🚀🚀</p>
